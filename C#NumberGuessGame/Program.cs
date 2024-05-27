@@ -1,4 +1,6 @@
-﻿namespace C_NumberGuessGame
+﻿//Following this tutorial => https://youtu.be/Qs2aDQq8yWc?si=PKvkF38_zKinbJIs
+
+namespace C_NumberGuessGame
 {
     //Remove internal from class name!
     class Program
